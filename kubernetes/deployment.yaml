@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: ederhub/nginx-gitops-lab:initial
+          image: ederhub/nginx-gitops-lab:34cc805
           imagePullPolicy: IfNotPresent
 
           ports:
